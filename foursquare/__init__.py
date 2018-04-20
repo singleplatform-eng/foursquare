@@ -51,13 +51,13 @@ if NETWORK_DEBUG:
 
 
 # Default API version. Move this forward as the library is maintained and kept current
-API_VERSION_YEAR  = '2016'
-API_VERSION_MONTH = '09'
-API_VERSION_DAY   = '12'
+API_VERSION_YEAR  = '2018'
+API_VERSION_MONTH = '04'
+API_VERSION_DAY   = '20'
 API_VERSION = '{year}{month}{day}'.format(year=API_VERSION_YEAR, month=API_VERSION_MONTH, day=API_VERSION_DAY)
 
 # Library versioning matches supported foursquare API version
-__version__ = '1!{year}.{month}.{day}'.format(year=API_VERSION_YEAR, month=API_VERSION_MONTH, day=API_VERSION_DAY)
+__version__ = '1.{year}.{month}.{day}'.format(year=API_VERSION_YEAR, month=API_VERSION_MONTH, day=API_VERSION_DAY)
 __author__ = u'Mike Lewis'
 
 AUTH_ENDPOINT = 'https://foursquare.com/oauth2/authenticate'
