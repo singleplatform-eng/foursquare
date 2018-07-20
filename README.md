@@ -1,3 +1,4 @@
+[![Build Status](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoibnRQaVFYeUpQZE45TFAyRHhySjRBUC85c2V6QSt3alJHNVlxeUpTTTNTNS9lVXlIb2NwVlFjNHBBaDZSNUZhM3BYdVJHcS9ISEtPempVVVozSEw3MVU4PSIsIml2UGFyYW1ldGVyU3BlYyI6IklXZWdFR2N0S2JROUJ3eU4iLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)](https://console.aws.amazon.com/codebuild/home?region=us-east-1#/projects/vendored_foursquare/view)
 # foursquare
 
 Python wrapper for the [foursquare API](http://developer.foursquare.com/docs/).
